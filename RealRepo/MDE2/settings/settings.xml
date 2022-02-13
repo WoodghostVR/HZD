@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Game>
+    <DisableLauncher>1</DisableLauncher>
+    <Subtitles>0</Subtitles>
+    <Language>english</Language>
+  </Game>
+  <Video>
+    <GlobalSettings>4</GlobalSettings>
+    <ShadowQuality>2</ShadowQuality>
+    <GeometryDetail>2</GeometryDetail>
+    <Apex>1</Apex>
+    <AnisotropicFiltering>16</AnisotropicFiltering>
+    <Brightness>9</Brightness>
+    <MSAA>1</MSAA>
+    <PostAA>2</PostAA>
+    <FrameRateLimit>5</FrameRateLimit>
+    <CustomFrameRate>30</CustomFrameRate>
+    <AmbientOcclusion>1</AmbientOcclusion>
+    <Vignette>1</Vignette>
+    <ChromaticAberration>1</ChromaticAberration>
+  </Video>
+  <Audio>
+    <SfxVolume>10</SfxVolume>
+    <VoicesVolume>10</VoicesVolume>
+    <MusicVolume>10</MusicVolume>
+    <RadioVolume>10</RadioVolume>
+    <AudioQuality>1</AudioQuality>
+    <AudioOutput>0</AudioOutput>
+  </Audio>
+  <Window>
+    <PositionX>-8</PositionX>
+    <PositionY>0</PositionY>
+    <ResolutionX>2160</ResolutionX>
+    <ResolutionY>2160</ResolutionY>
+    <Fullscreen>0</Fullscreen>
+    <DisplayIndex>0</DisplayIndex>
+    <GPU>0</GPU>
+    <DeviceID>0</DeviceID>
+    <WindowOptions>0</WindowOptions>
+    <AutodetectResolution>0</AutodetectResolution>
+    <VSync>0</VSync>
+  </Window>
+</Settings>
